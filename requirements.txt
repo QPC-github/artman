@@ -19,4 +19,4 @@ taskflow==3.7.1
 networkx==1.11
 pypandoc >= 1.4, < 2.0
 ply >= 3.8
-pyyaml == 5.2
+pyyaml == 5.4
